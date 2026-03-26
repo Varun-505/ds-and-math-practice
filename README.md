@@ -15,7 +15,7 @@ This repository contains fundamental programming problems related to mathematics
 This repository is created for practicing basic programming concepts and improving problem-solving skills.
 
 ## Language
-(Add your programming language here)
+Python
 
 ---
 Feel free to explore and contribute!
